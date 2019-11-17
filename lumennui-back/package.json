@@ -12,7 +12,7 @@
     "debug": "~2.6.9",
     "express": "~4.16.1",
     "mariadb": "^2.1.1",
-    "mongoose": "^5.7.1",
+    "mongoose": "^5.7.5",
     "morgan": "~1.9.1",
     "sequelize": "^5.18.4",
     "socket.io": "^2.2.0"
